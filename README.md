@@ -13,6 +13,16 @@ The project utilizes the kaggle data source https://www.kaggle.com/datasets/john
 - StatsModel
 - Xgboost
 
+# Project Pipeline
+1. Initial Data Exploration 🔍
+2. Exploratory Data Analysis 📉
+3. Dataset Pre-processing ⚙
+4. Model Implementation 🛠
+5. Model Comparison
+6. Model Selection
+7. Dashboard Integration for Model (UI/UX)
+8. Testing and Evaluation
+
 # Machine Learning Algorithm
 - Logistic Regression
 - K-Nearest Neighbor (KNN)
